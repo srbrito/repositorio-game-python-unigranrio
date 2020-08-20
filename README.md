@@ -3,7 +3,7 @@
 Repositório destinado para o desenvolvimento do jogo produzido em Python pelos alunos 
 
 |                                                                                                  |          |
-| ------------------------------------------------------------------------------------------------ |
+| ------------------------------------------------------------------------------------------------ | :------: | 
 | [Ismael Guimarães Borba](https://github.com/ismaelguimaraes)                                                              | 5306729 |
 | [Andreza Alves P da Silva](https://github.com/drezalvs)                     | 5405754 | 
 | [Guilherme Brito da Silva](https://github.com/srbrito)                      | 5306723 |
