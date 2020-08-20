@@ -2,6 +2,7 @@
 
 Repositório destinado para o desenvolvimento do jogo produzido em Python pelos alunos 
 
+## Integrantes (Nome Completo / Matrícula)
 |                                                                                                  |          |
 | ------------------------------------------------------------------------------------------------ | :------: | 
 | [Ismael Guimarães Borba](https://github.com/ismaelguimaraes)                                                              | 5306729 |
